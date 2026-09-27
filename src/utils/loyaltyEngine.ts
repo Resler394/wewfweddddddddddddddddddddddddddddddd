@@ -1,0 +1,40 @@
+/**
+ * Compatibility Bridge for Loyalty Service Layer
+ * Re-exports the authoritative implementation from src/services/loyalty.ts
+ */
+export * from '../services/loyalty';
+export {
+  LOYALTY_QUALIFYING_CATEGORIES,
+  LOYALTY_EXCLUDED_CATEGORIES,
+  DEFAULT_LOYALTY_CONFIG,
+  getLoyaltyConfig,
+  getAllLoyaltyAccounts,
+  getLoyaltyAccountById,
+  getLoyaltyAccountByPhone,
+  getActiveLoyaltyAccount,
+  setActiveLoyaltyAccount,
+  createOrGetLoyaltyAccount,
+  getAllLoyaltyTransactions,
+  recordLoyaltyTransaction,
+  isQualifyingLoyaltyCategory,
+  isQualifyingLoyaltyItem,
+  getQualifyingDrinksInOrder,
+  processOrderLoyalty,
+  emitLoyaltyUpdate,
+  getActiveCustomer,
+  setActiveCustomer,
+  getAllCustomers,
+  getLoyaltyLedger,
+  recordLedgerEntry,
+  registerLoyaltyCustomer,
+  adminAdjustCustomerStamps,
+  redeemReward,
+  verifyRewardForStaff,
+  adminCancelReward,
+  processOrderRefundReversal,
+  searchLoyaltyCustomers,
+  getLoyaltyMetrics,
+  normalizePhoneNumber,
+  generateRedemptionCode,
+  generateSecureToken,
+} from '../services/loyalty';

@@ -1,0 +1,169 @@
+{
+  "vty_sess_f2124a2fa12663ed3fbfd73ceec60f812aaed8b82e2a4b84": {
+    "role": "CUSTOMER",
+    "customerId": "VENTY-9654",
+    "sessionId": "vty_sess_f2124a2fa12663ed3fbfd73ceec60f812aaed8b82e2a4b84",
+    "expiresAt": 1793024871546
+  },
+  "vty_sess_a1a045e7be75108872ec4b197fb650bd6709b14cfbd647ad": {
+    "role": "STAFF",
+    "staffId": "Staff-Amine",
+    "staffName": "Amine (Barista)",
+    "sessionId": "vty_sess_a1a045e7be75108872ec4b197fb650bd6709b14cfbd647ad",
+    "expiresAt": 1793026841343
+  },
+  "vty_sess_d3666ed2f3fddd5ecc6061254d0b4540cd7c83006afbe92b": {
+    "role": "STAFF",
+    "staffId": "Staff-Amine",
+    "staffName": "Amine (Barista)",
+    "sessionId": "vty_sess_d3666ed2f3fddd5ecc6061254d0b4540cd7c83006afbe92b",
+    "expiresAt": 1793027372935
+  },
+  "vty_sess_4c48079113be8fcc1c1c045dff3991698c8c46ed056a89d3": {
+    "role": "CUSTOMER",
+    "customerId": "VENTY-8534",
+    "sessionId": "vty_sess_4c48079113be8fcc1c1c045dff3991698c8c46ed056a89d3",
+    "expiresAt": 1793038637482
+  },
+  "vty_sess_3c377e00e4a80a8f508cf102362bc4890a4522b693092579": {
+    "role": "CUSTOMER",
+    "customerId": "VENTY-8534",
+    "sessionId": "vty_sess_3c377e00e4a80a8f508cf102362bc4890a4522b693092579",
+    "expiresAt": 1793038637503
+  },
+  "vty_sess_c71336fcd8ad24b118fa4bf2ca2889e0c2124f96b84556b6": {
+    "role": "CUSTOMER",
+    "customerId": "VENTY-8534",
+    "sessionId": "vty_sess_c71336fcd8ad24b118fa4bf2ca2889e0c2124f96b84556b6",
+    "expiresAt": 1793038637512
+  },
+  "vty_sess_699b4224758e9ee961f3c1d23de6dafd07530d0bdf38510b": {
+    "role": "CUSTOMER",
+    "customerId": "VENTY-3350",
+    "sessionId": "vty_sess_699b4224758e9ee961f3c1d23de6dafd07530d0bdf38510b",
+    "expiresAt": 1793039442037
+  },
+  "vty_sess_f1edbea939a797bbcfbf64ef97bdc0cb22d832ab64b5f966": {
+    "role": "CUSTOMER",
+    "customerId": "VENTY-3350",
+    "sessionId": "vty_sess_f1edbea939a797bbcfbf64ef97bdc0cb22d832ab64b5f966",
+    "expiresAt": 1793039456547
+  },
+  "vty_sess_5b87811e506c6919fd6f7ba5fefa6c27b5208ee3408bb906": {
+    "role": "CUSTOMER",
+    "customerId": "VENTY-3350",
+    "sessionId": "vty_sess_5b87811e506c6919fd6f7ba5fefa6c27b5208ee3408bb906",
+    "expiresAt": 1793039506662
+  },
+  "vty_sess_b3207c074ff5f1fb2aa97e48aea32cf598fcb29e7cfdae1b": {
+    "role": "CUSTOMER",
+    "customerId": "VENTY-8403",
+    "sessionId": "vty_sess_b3207c074ff5f1fb2aa97e48aea32cf598fcb29e7cfdae1b",
+    "expiresAt": 1793039566905
+  },
+  "vty_sess_a62af53e22c08cfcb786955846aee035edb9d97749608a32": {
+    "role": "CUSTOMER",
+    "customerId": "VENTY-3308",
+    "sessionId": "vty_sess_a62af53e22c08cfcb786955846aee035edb9d97749608a32",
+    "expiresAt": 1793039659250
+  },
+  "vty_sess_3af0157d6b4bf8091a5368b70513ddfac6d0de000d09ac37": {
+    "role": "CUSTOMER",
+    "customerId": "VENTY-3308",
+    "sessionId": "vty_sess_3af0157d6b4bf8091a5368b70513ddfac6d0de000d09ac37",
+    "expiresAt": 1793039659364
+  },
+  "vty_sess_45f7e1cdc850508774dfa83ee281cacef40160f63fda928e": {
+    "role": "CUSTOMER",
+    "customerId": "VENTY-8486",
+    "sessionId": "vty_sess_45f7e1cdc850508774dfa83ee281cacef40160f63fda928e",
+    "expiresAt": 1793039659392
+  },
+  "vty_sess_8c3dcc0a8bd69b2753adac21969a054aa13a2873f451fa3b": {
+    "role": "CUSTOMER",
+    "customerId": "VENTY-7249",
+    "sessionId": "vty_sess_8c3dcc0a8bd69b2753adac21969a054aa13a2873f451fa3b",
+    "expiresAt": 1793042175635
+  },
+  "vty_sess_49a989f79d7ddbbd72b00e93321c3a2e7818c3d9c549fc90": {
+    "role": "CUSTOMER",
+    "customerId": "VENTY-7249",
+    "sessionId": "vty_sess_49a989f79d7ddbbd72b00e93321c3a2e7818c3d9c549fc90",
+    "expiresAt": 1793042228919
+  },
+  "vty_sess_a59b6ff5f0bd2be1be8c742305faee0cc50fc05634c7ba6d": {
+    "role": "CUSTOMER",
+    "customerId": "VENTY-1149",
+    "sessionId": "vty_sess_a59b6ff5f0bd2be1be8c742305faee0cc50fc05634c7ba6d",
+    "expiresAt": 1793042228994
+  },
+  "vty_sess_a61984ef1976339270688683b7c6989106b5acdeb59e75ef": {
+    "role": "CUSTOMER",
+    "customerId": "VENTY-5516",
+    "sessionId": "vty_sess_a61984ef1976339270688683b7c6989106b5acdeb59e75ef",
+    "expiresAt": 1793042347382
+  },
+  "vty_sess_eb29773bc4c4cd4b58dbc49d478ea25fab8402d1d598208b": {
+    "role": "ADMIN",
+    "adminId": "VENTY-MANAGER-MILIANA",
+    "sessionId": "vty_sess_eb29773bc4c4cd4b58dbc49d478ea25fab8402d1d598208b",
+    "expiresAt": 1793104430233
+  },
+  "vty_sess_531a6f5c991b848af2ed54f08f3988a97bf1fc32dfe4a9ce": {
+    "role": "STAFF",
+    "staffId": "Staff-Amine",
+    "staffName": "Amine (Head Barista)",
+    "sessionId": "vty_sess_531a6f5c991b848af2ed54f08f3988a97bf1fc32dfe4a9ce",
+    "expiresAt": 1793104430244
+  },
+  "vty_sess_7887fd6472fccfbcf8b716f73bf6af2d788b397606406082": {
+    "role": "ADMIN",
+    "adminId": "VENTY-MANAGER-MILIANA",
+    "sessionId": "vty_sess_7887fd6472fccfbcf8b716f73bf6af2d788b397606406082",
+    "expiresAt": 1793104555523
+  },
+  "vty_sess_dad73ea09c6cd21fa1f3885b018e33b4a8e2e99871cfa9b4": {
+    "role": "STAFF",
+    "staffId": "Staff-Amine",
+    "staffName": "Amine (Head Barista)",
+    "sessionId": "vty_sess_dad73ea09c6cd21fa1f3885b018e33b4a8e2e99871cfa9b4",
+    "expiresAt": 1793104555534
+  },
+  "vty_sess_dc827ccb47c41282b822b9eee1b8a866007cbfdf51e59a2f": {
+    "role": "STAFF",
+    "staffId": "Staff-Amine",
+    "staffName": "Amine (Head Barista)",
+    "sessionId": "vty_sess_dc827ccb47c41282b822b9eee1b8a866007cbfdf51e59a2f",
+    "expiresAt": 1793104626935
+  },
+  "vty_sess_42f99bb292e1f8db012be556312c27b2e3d118cae1c652b4": {
+    "role": "CUSTOMER",
+    "customerId": "VENTY-3358",
+    "sessionId": "vty_sess_42f99bb292e1f8db012be556312c27b2e3d118cae1c652b4",
+    "expiresAt": 1793113205952
+  },
+  "vty_sess_065c4dc2eba3e8da9a880857f733d34d2a984f6af3f9db72": {
+    "role": "CUSTOMER",
+    "customerId": "VENTY-3358",
+    "sessionId": "vty_sess_065c4dc2eba3e8da9a880857f733d34d2a984f6af3f9db72",
+    "expiresAt": 1793113206062
+  },
+  "vty_sess_b246102f70820986601456519597704d06f42116a24d92ea": {
+    "role": "CUSTOMER",
+    "customerId": "VENTY-5411",
+    "sessionId": "vty_sess_b246102f70820986601456519597704d06f42116a24d92ea",
+    "expiresAt": 1793113245194
+  },
+  "vty_sess_26621bcc4614a72a8d74378cc10a34e03b86dc31bbad26c0": {
+    "role": "ADMIN",
+    "adminId": "VENTY-MANAGER-MILIANA",
+    "sessionId": "vty_sess_26621bcc4614a72a8d74378cc10a34e03b86dc31bbad26c0",
+    "expiresAt": 1793116506222
+  },
+  "vty_sess_eb37fadb8067c81a62a1c2e9401138e20c01c561da46a5c2": {
+    "role": "CUSTOMER",
+    "customerId": "VENTY-5348",
+    "sessionId": "vty_sess_eb37fadb8067c81a62a1c2e9401138e20c01c561da46a5c2",
+    "expiresAt": 1793117093958
+  }
+}

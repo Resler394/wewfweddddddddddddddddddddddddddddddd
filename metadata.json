@@ -1,0 +1,8 @@
+{
+  "name": "VENTY THE COFFEE — Specialty Coffee, Juice & Sweets in Miliana",
+  "description": "VENTY THE COFFEE — Specialty coffee shop, fresh juices, and artisanal sweets in Miliana / Khemis Miliana, Algeria. See you daily 17:00 – 1:00.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
